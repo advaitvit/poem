@@ -7,3 +7,4 @@ yellow
 green
 gdg
 rolo
+macho man
